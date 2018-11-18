@@ -1,0 +1,3 @@
+name: McBangDreamPlugin
+version: @version@
+main: me.humimen.kotlin.mcbangdreamplugin.McBangDreamPlugin
