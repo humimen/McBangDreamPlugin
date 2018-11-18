@@ -13,6 +13,7 @@ class PlayerEventListener(override val plugin: McBangDreamPlugin) :BaseListener{
     fun viewInformation(event: PlayerInteractEvent){
         if(event.clickedBlock.type == Material.DIAMOND_BLOCK){
 
+
         }
     }
 }
